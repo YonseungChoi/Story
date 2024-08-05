@@ -1,2 +1,2 @@
 # Story
-game of thrones
+GOT
